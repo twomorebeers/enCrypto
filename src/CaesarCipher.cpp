@@ -1,7 +1,3 @@
-//
-// Created by bog on 07.06.2024.
-//
-
 #include "CaesarCipher.h"
 
 CaesarCipher::CaesarCipher(int shift) : shift(shift) {}
