@@ -1,0 +1,3 @@
+/home/bog/CLionProjects/FileEncryptor/cmake-build-debug/CMakeFiles/FileEncryptor.dir
+/home/bog/CLionProjects/FileEncryptor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bog/CLionProjects/FileEncryptor/cmake-build-debug/CMakeFiles/rebuild_cache.dir

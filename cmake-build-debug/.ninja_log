@@ -1,0 +1,6 @@
+# ninja log v5
+0	11	1717774811422719603	build.ninja	5eb39f54a833e734
+1	151	1717774811578718283	CMakeFiles/FileEncryptor.dir/src/CaesarCipher.cpp.o	5650ad3957fddf57
+1	274	1717774811698717268	CMakeFiles/FileEncryptor.dir/src/CipherPrototypeFactory.cpp.o	39cc3b30d3f2b33b
+0	290	1717774811714717133	CMakeFiles/FileEncryptor.dir/src/main.cpp.o	25b6f94a9ab48759
+290	333	1717774811758716761	FileEncryptor	b01d72e096311326
